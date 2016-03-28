@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="press_searchbox">#FFDAB9</color>
+    <color name="selected_seachbox">#FFEBCD</color>
+    <color name="normal_searchbox">#FFA07A</color>
+    <color name="tab_item_background">#FFFFFF</color>
+    <color name="content_background">#FFFFFF</color>
+    <color name="toolbar_backgound">#FFFAF0</color>
+    <color name="toolbar_color">#FFE4C4</color>
+    <color name="shop_text_color">#000000</color>
+    <color name="et_search_hint_color">#FFFFF0</color>
+</resources>
